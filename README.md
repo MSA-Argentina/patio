@@ -2,11 +2,14 @@
 
 Patio is a Javascript library to manage screen context. It handles what should appear on screen surrounding your main container.
 
+You can try an online example here https://msa-argentina.github.io/patio/example/
+
 ## License
 Patio is distributed under the LGPLv3 License
 
 ## Requirements
-jQuery (soon to be removed as requirement)
+* jQuery (soon to be removed as requirement.)
+* Handlebars (optional but used on most of our projects.)
 
 ## how to use it
 
