@@ -34,7 +34,7 @@ var context = [
         "template": "confirm_button",
         "container": "#options",
         "callback_click": click_button
-   ``,
+    },
     {
         "id": "cancel",
         "template": "cancel_button",

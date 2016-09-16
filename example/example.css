@@ -1,0 +1,52 @@
+h1 {
+    color: #A51;
+}
+
+h2 {
+    color: #629;
+}
+
+h4 {
+    color: #FAA;
+}
+
+.button,
+.button2,
+.button3 {
+    border: solid 1px; width:300px;  
+    cursor:pointer;
+}
+
+.button, .button2 {
+    background: #33AA33;
+}
+
+.button3 {
+    background: #FF55ee;
+}
+
+.tab {
+    background: #00FFBB;
+    width: 300px;
+    padding: 10px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+#whatever,
+#go_on,
+#restart {
+    float: left;
+    margin: 10px;
+    padding: 20px;
+}
+
+#tiles {
+    min-height: 210px;
+}
+
+.panel {
+    border: solid 1px #00ffbb;
+    width: 600px;
+    padding: 20px;
+}
