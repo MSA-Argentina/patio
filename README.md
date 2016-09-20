@@ -53,7 +53,7 @@ function get_template(template_name, template_dir){
 var patio = new Patio($("#containter"), tiles, context, "templates_dir");
 
 patio.loading.only(); // Will show just the loading screen
-patio.slide_1.only(); // Will show just the loading screen
+patio.slide_1.only(); // Will show the slide_1 along it's content
 patio.slide_2.only(); // Will show the slide_2 along it's content
 
 ````
