@@ -248,4 +248,9 @@ function Tile(dict){
         /* A shortcut for $.addClass */
         this.$.addClass(_class);
     };
+
+    this.removeClass = function(_class){
+        /* A shortcut for $.removeClass */
+        this.$.removeClass(_class);
+    };
 }
